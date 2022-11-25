@@ -1,10 +1,11 @@
 body{
 font-family: Open Sans, sans-serif;
+background-color: #f0efef;
 }
 
 header{
-    height: 100px;
-    border-bottom: 1px solid #000;
+    height: 120px;
+    border-bottom: 2px solid #000;
     margin-bottom: 40px;
 }
 
@@ -23,7 +24,7 @@ section{
 .card{
     display: inline-block;
     margin: 10px;
-    border: 1px solid #000;
+    border: 2px solid #000;
     vertical-align: top;
     max-height: 100%;
 }
@@ -38,6 +39,7 @@ section{
     width: 300px;
     height: auto;
     display: inline-block;
+    background-color: #d6d4e0;
 }
 
 .card details summary{
